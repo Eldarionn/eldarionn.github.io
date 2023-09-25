@@ -21,7 +21,7 @@ This portfolio website serves as a digital resume and interactive platform to le
 
 ## Demo
 
-You can check out the live version of my portfolio website [here](https://yourportfolioURL.com).
+You can check out the live version of my portfolio website [here](eldarionn.github.io).
 
 ## Features
 
@@ -45,12 +45,12 @@ To view the portfolio website locally or deploy it on a web server, follow these
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Eldarionn/eldarionn.github.io.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo
+   cd eldarionn.github.io
 
 ## Usage
 
