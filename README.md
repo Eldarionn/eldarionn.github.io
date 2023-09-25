@@ -78,6 +78,6 @@ There are no external dependencies required to run this website. It's built usin
 
 If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request. Contributions are welcome!
 
--- 
+------
 
 Thank you for visiting my portfolio repository! If you have any questions or feedback, please don't hesitate to contact me through the provided channels in the website's contact section.
