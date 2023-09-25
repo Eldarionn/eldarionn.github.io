@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website repository! This website showcases my skills, experience, and contact information in the field of cybersecurity. It's built using HTML, CSS, and JavaScript.
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Portfolio-Screenshot.png)
 
 ## Table of Contents
 - [Description](#description)
