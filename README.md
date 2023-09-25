@@ -21,7 +21,7 @@ This portfolio website serves as a digital resume and interactive platform to le
 
 ## Demo
 
-You can check out the live version of my portfolio website [here](eldarionn.github.io).
+You can check out the live version of my portfolio website [here](https://eldarionn.github.io/).
 
 ## Features
 
